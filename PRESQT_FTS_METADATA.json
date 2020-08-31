@@ -1,0 +1,362 @@
+{
+    "allKeywords": [],
+    "actions": [
+        {
+            "id": "02234559-7a95-4fad-ad8b-553def0364e3",
+            "details": "PresQT Upload to GitHub",
+            "actionDateTime": "2020-08-31 15:30:35.672994+00:00",
+            "actionType": "resource_upload",
+            "sourceTargetName": "Local Machine",
+            "sourceUsername": null,
+            "destinationTargetName": "github",
+            "destinationUsername": "emetsger",
+            "keywords": {},
+            "files": {
+                "created": [
+                    {
+                        "destinationHashes": {},
+                        "destinationPath": "/wyatt-joe-jt/wyatt-jt-14.jpg",
+                        "failedFixityInfo": [
+                            {
+                                "NewGeneratedHash": "96ad1aefe0d018e7d55efd804e0b6e2b",
+                                "algorithmUsed": "md5",
+                                "reasonFixityFailed": "Either the destination did not provide a hash or fixity failed during upload."
+                            }
+                        ],
+                        "title": "wyatt-jt-14.jpg",
+                        "sourceHashes": {
+                            "md5": "96ad1aefe0d018e7d55efd804e0b6e2b"
+                        },
+                        "sourcePath": "/wyatt-joe-jt/wyatt-jt-14.jpg",
+                        "extra": {}
+                    },
+                    {
+                        "destinationHashes": {},
+                        "destinationPath": "/wyatt-joe-jt/wyatt-jt-07.jpg",
+                        "failedFixityInfo": [
+                            {
+                                "NewGeneratedHash": "2af8cf3b7fa69f1d24cab69a07642fb2",
+                                "algorithmUsed": "md5",
+                                "reasonFixityFailed": "Either the destination did not provide a hash or fixity failed during upload."
+                            }
+                        ],
+                        "title": "wyatt-jt-07.jpg",
+                        "sourceHashes": {
+                            "md5": "2af8cf3b7fa69f1d24cab69a07642fb2"
+                        },
+                        "sourcePath": "/wyatt-joe-jt/wyatt-jt-07.jpg",
+                        "extra": {}
+                    },
+                    {
+                        "destinationHashes": {},
+                        "destinationPath": "/wyatt-joe-jt/wyatt-jt-20.jpg",
+                        "failedFixityInfo": [
+                            {
+                                "NewGeneratedHash": "6b78d19f16aea768001ea5f708cd7849",
+                                "algorithmUsed": "md5",
+                                "reasonFixityFailed": "Either the destination did not provide a hash or fixity failed during upload."
+                            }
+                        ],
+                        "title": "wyatt-jt-20.jpg",
+                        "sourceHashes": {
+                            "md5": "6b78d19f16aea768001ea5f708cd7849"
+                        },
+                        "sourcePath": "/wyatt-joe-jt/wyatt-jt-20.jpg",
+                        "extra": {}
+                    },
+                    {
+                        "destinationHashes": {},
+                        "destinationPath": "/wyatt-joe-jt/wyatt-jt-13.jpg",
+                        "failedFixityInfo": [
+                            {
+                                "NewGeneratedHash": "14c3f085fd0dd24998cefdbdd7d4c3b4",
+                                "algorithmUsed": "md5",
+                                "reasonFixityFailed": "Either the destination did not provide a hash or fixity failed during upload."
+                            }
+                        ],
+                        "title": "wyatt-jt-13.jpg",
+                        "sourceHashes": {
+                            "md5": "14c3f085fd0dd24998cefdbdd7d4c3b4"
+                        },
+                        "sourcePath": "/wyatt-joe-jt/wyatt-jt-13.jpg",
+                        "extra": {}
+                    },
+                    {
+                        "destinationHashes": {},
+                        "destinationPath": "/wyatt-joe-jt/wyatt-jt-17.jpg",
+                        "failedFixityInfo": [
+                            {
+                                "NewGeneratedHash": "17022049c27c3434624531c149aa5756",
+                                "algorithmUsed": "md5",
+                                "reasonFixityFailed": "Either the destination did not provide a hash or fixity failed during upload."
+                            }
+                        ],
+                        "title": "wyatt-jt-17.jpg",
+                        "sourceHashes": {
+                            "md5": "17022049c27c3434624531c149aa5756"
+                        },
+                        "sourcePath": "/wyatt-joe-jt/wyatt-jt-17.jpg",
+                        "extra": {}
+                    },
+                    {
+                        "destinationHashes": {},
+                        "destinationPath": "/wyatt-joe-jt/wyatt-jt-02.jpg",
+                        "failedFixityInfo": [
+                            {
+                                "NewGeneratedHash": "8546206dfb90040261d32418dc837673",
+                                "algorithmUsed": "md5",
+                                "reasonFixityFailed": "Either the destination did not provide a hash or fixity failed during upload."
+                            }
+                        ],
+                        "title": "wyatt-jt-02.jpg",
+                        "sourceHashes": {
+                            "md5": "8546206dfb90040261d32418dc837673"
+                        },
+                        "sourcePath": "/wyatt-joe-jt/wyatt-jt-02.jpg",
+                        "extra": {}
+                    },
+                    {
+                        "destinationHashes": {},
+                        "destinationPath": "/wyatt-joe-jt/wyatt-jt-19.jpg",
+                        "failedFixityInfo": [
+                            {
+                                "NewGeneratedHash": "e7304e4a18a8026e9ab5be12668d187e",
+                                "algorithmUsed": "md5",
+                                "reasonFixityFailed": "Either the destination did not provide a hash or fixity failed during upload."
+                            }
+                        ],
+                        "title": "wyatt-jt-19.jpg",
+                        "sourceHashes": {
+                            "md5": "e7304e4a18a8026e9ab5be12668d187e"
+                        },
+                        "sourcePath": "/wyatt-joe-jt/wyatt-jt-19.jpg",
+                        "extra": {}
+                    },
+                    {
+                        "destinationHashes": {},
+                        "destinationPath": "/wyatt-joe-jt/wyatt-jt-05.jpg",
+                        "failedFixityInfo": [
+                            {
+                                "NewGeneratedHash": "7f34900722cd1135277b65339532042e",
+                                "algorithmUsed": "md5",
+                                "reasonFixityFailed": "Either the destination did not provide a hash or fixity failed during upload."
+                            }
+                        ],
+                        "title": "wyatt-jt-05.jpg",
+                        "sourceHashes": {
+                            "md5": "7f34900722cd1135277b65339532042e"
+                        },
+                        "sourcePath": "/wyatt-joe-jt/wyatt-jt-05.jpg",
+                        "extra": {}
+                    },
+                    {
+                        "destinationHashes": {},
+                        "destinationPath": "/wyatt-joe-jt/wyatt-jt-09.jpg",
+                        "failedFixityInfo": [
+                            {
+                                "NewGeneratedHash": "f732784eb0f0b698b2119cb397a3e6f0",
+                                "algorithmUsed": "md5",
+                                "reasonFixityFailed": "Either the destination did not provide a hash or fixity failed during upload."
+                            }
+                        ],
+                        "title": "wyatt-jt-09.jpg",
+                        "sourceHashes": {
+                            "md5": "f732784eb0f0b698b2119cb397a3e6f0"
+                        },
+                        "sourcePath": "/wyatt-joe-jt/wyatt-jt-09.jpg",
+                        "extra": {}
+                    },
+                    {
+                        "destinationHashes": {},
+                        "destinationPath": "/wyatt-joe-jt/wyatt-jt-16.jpg",
+                        "failedFixityInfo": [
+                            {
+                                "NewGeneratedHash": "54a2a7301cfba620683406689f9404d5",
+                                "algorithmUsed": "md5",
+                                "reasonFixityFailed": "Either the destination did not provide a hash or fixity failed during upload."
+                            }
+                        ],
+                        "title": "wyatt-jt-16.jpg",
+                        "sourceHashes": {
+                            "md5": "54a2a7301cfba620683406689f9404d5"
+                        },
+                        "sourcePath": "/wyatt-joe-jt/wyatt-jt-16.jpg",
+                        "extra": {}
+                    },
+                    {
+                        "destinationHashes": {},
+                        "destinationPath": "/wyatt-joe-jt/wyatt-jt-04.jpg",
+                        "failedFixityInfo": [
+                            {
+                                "NewGeneratedHash": "cff52bcfc00c417cdbeb2ec66707ffa6",
+                                "algorithmUsed": "md5",
+                                "reasonFixityFailed": "Either the destination did not provide a hash or fixity failed during upload."
+                            }
+                        ],
+                        "title": "wyatt-jt-04.jpg",
+                        "sourceHashes": {
+                            "md5": "cff52bcfc00c417cdbeb2ec66707ffa6"
+                        },
+                        "sourcePath": "/wyatt-joe-jt/wyatt-jt-04.jpg",
+                        "extra": {}
+                    },
+                    {
+                        "destinationHashes": {},
+                        "destinationPath": "/wyatt-joe-jt/wyatt-jt-15.jpg",
+                        "failedFixityInfo": [
+                            {
+                                "NewGeneratedHash": "04216b4b73c6799e2681f2175296a21f",
+                                "algorithmUsed": "md5",
+                                "reasonFixityFailed": "Either the destination did not provide a hash or fixity failed during upload."
+                            }
+                        ],
+                        "title": "wyatt-jt-15.jpg",
+                        "sourceHashes": {
+                            "md5": "04216b4b73c6799e2681f2175296a21f"
+                        },
+                        "sourcePath": "/wyatt-joe-jt/wyatt-jt-15.jpg",
+                        "extra": {}
+                    },
+                    {
+                        "destinationHashes": {},
+                        "destinationPath": "/wyatt-joe-jt/wyatt-jt-12.jpg",
+                        "failedFixityInfo": [
+                            {
+                                "NewGeneratedHash": "e6add01d67d00b2eccd7c536f516ee68",
+                                "algorithmUsed": "md5",
+                                "reasonFixityFailed": "Either the destination did not provide a hash or fixity failed during upload."
+                            }
+                        ],
+                        "title": "wyatt-jt-12.jpg",
+                        "sourceHashes": {
+                            "md5": "e6add01d67d00b2eccd7c536f516ee68"
+                        },
+                        "sourcePath": "/wyatt-joe-jt/wyatt-jt-12.jpg",
+                        "extra": {}
+                    },
+                    {
+                        "destinationHashes": {},
+                        "destinationPath": "/wyatt-joe-jt/wyatt-jt-01.jpg",
+                        "failedFixityInfo": [
+                            {
+                                "NewGeneratedHash": "4e96132a8f56cc2400d33dfc0b0d6a39",
+                                "algorithmUsed": "md5",
+                                "reasonFixityFailed": "Either the destination did not provide a hash or fixity failed during upload."
+                            }
+                        ],
+                        "title": "wyatt-jt-01.jpg",
+                        "sourceHashes": {
+                            "md5": "4e96132a8f56cc2400d33dfc0b0d6a39"
+                        },
+                        "sourcePath": "/wyatt-joe-jt/wyatt-jt-01.jpg",
+                        "extra": {}
+                    },
+                    {
+                        "destinationHashes": {},
+                        "destinationPath": "/wyatt-joe-jt/wyatt-jt-06.jpg",
+                        "failedFixityInfo": [
+                            {
+                                "NewGeneratedHash": "60cedf486ece1d6f3f67018ae7e2d342",
+                                "algorithmUsed": "md5",
+                                "reasonFixityFailed": "Either the destination did not provide a hash or fixity failed during upload."
+                            }
+                        ],
+                        "title": "wyatt-jt-06.jpg",
+                        "sourceHashes": {
+                            "md5": "60cedf486ece1d6f3f67018ae7e2d342"
+                        },
+                        "sourcePath": "/wyatt-joe-jt/wyatt-jt-06.jpg",
+                        "extra": {}
+                    },
+                    {
+                        "destinationHashes": {},
+                        "destinationPath": "/wyatt-joe-jt/wyatt-jt-11.jpg",
+                        "failedFixityInfo": [
+                            {
+                                "NewGeneratedHash": "aaabdd6c72097b605e97137af326b9ba",
+                                "algorithmUsed": "md5",
+                                "reasonFixityFailed": "Either the destination did not provide a hash or fixity failed during upload."
+                            }
+                        ],
+                        "title": "wyatt-jt-11.jpg",
+                        "sourceHashes": {
+                            "md5": "aaabdd6c72097b605e97137af326b9ba"
+                        },
+                        "sourcePath": "/wyatt-joe-jt/wyatt-jt-11.jpg",
+                        "extra": {}
+                    },
+                    {
+                        "destinationHashes": {},
+                        "destinationPath": "/wyatt-joe-jt/wyatt-jt-08.jpg",
+                        "failedFixityInfo": [
+                            {
+                                "NewGeneratedHash": "1a019fb426226df9a872fa381b669f7c",
+                                "algorithmUsed": "md5",
+                                "reasonFixityFailed": "Either the destination did not provide a hash or fixity failed during upload."
+                            }
+                        ],
+                        "title": "wyatt-jt-08.jpg",
+                        "sourceHashes": {
+                            "md5": "1a019fb426226df9a872fa381b669f7c"
+                        },
+                        "sourcePath": "/wyatt-joe-jt/wyatt-jt-08.jpg",
+                        "extra": {}
+                    },
+                    {
+                        "destinationHashes": {},
+                        "destinationPath": "/wyatt-joe-jt/wyatt-jt-10.jpg",
+                        "failedFixityInfo": [
+                            {
+                                "NewGeneratedHash": "16fa59137ba356bb1fb37c695045954b",
+                                "algorithmUsed": "md5",
+                                "reasonFixityFailed": "Either the destination did not provide a hash or fixity failed during upload."
+                            }
+                        ],
+                        "title": "wyatt-jt-10.jpg",
+                        "sourceHashes": {
+                            "md5": "16fa59137ba356bb1fb37c695045954b"
+                        },
+                        "sourcePath": "/wyatt-joe-jt/wyatt-jt-10.jpg",
+                        "extra": {}
+                    },
+                    {
+                        "destinationHashes": {},
+                        "destinationPath": "/wyatt-joe-jt/wyatt-jt-18.jpg",
+                        "failedFixityInfo": [
+                            {
+                                "NewGeneratedHash": "a7a4ed1185e32040ff337b720d2872b7",
+                                "algorithmUsed": "md5",
+                                "reasonFixityFailed": "Either the destination did not provide a hash or fixity failed during upload."
+                            }
+                        ],
+                        "title": "wyatt-jt-18.jpg",
+                        "sourceHashes": {
+                            "md5": "a7a4ed1185e32040ff337b720d2872b7"
+                        },
+                        "sourcePath": "/wyatt-joe-jt/wyatt-jt-18.jpg",
+                        "extra": {}
+                    },
+                    {
+                        "destinationHashes": {},
+                        "destinationPath": "/wyatt-joe-jt/wyatt-jt-03.jpg",
+                        "failedFixityInfo": [
+                            {
+                                "NewGeneratedHash": "af0e76117028f7927e4be78dea2427d6",
+                                "algorithmUsed": "md5",
+                                "reasonFixityFailed": "Either the destination did not provide a hash or fixity failed during upload."
+                            }
+                        ],
+                        "title": "wyatt-jt-03.jpg",
+                        "sourceHashes": {
+                            "md5": "af0e76117028f7927e4be78dea2427d6"
+                        },
+                        "sourcePath": "/wyatt-joe-jt/wyatt-jt-03.jpg",
+                        "extra": {}
+                    }
+                ],
+                "updated": [],
+                "ignored": []
+            }
+        }
+    ]
+}
